@@ -1,7 +1,7 @@
 
 # Android Challenge
 
-[![CircleCI](https://circleci.com/gh/henrywm/Android-Challenge/tree/dev.svg?style=svg)](https://circleci.com/gh/henrywm/Android-Challenge/tree/dev) 
+[![CircleCI](https://circleci.com/gh/henrywm/Android-Challenge/tree/libraries.svg?style=svg)](https://circleci.com/gh/henrywm/Android-Challenge/tree/libraries) 
 
 [![N|Solid](https://jobs.i-hunter.com/claro/views/logo.php)](https://www.claro.com.br/)
 
