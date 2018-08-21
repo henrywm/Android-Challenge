@@ -27,7 +27,7 @@ Honestly, I'm still studying about architectures and how to apply each one in di
 - Tests: I didn't think the tests were so essential for a basic app being up and running and I left this for the last part, in case I would had time enough
 - Player, Quality, Continuous Delivery (I have never worked with these, so I was trying to learn and implement)
 
-## Improvements (I'd do if I'd had more time)
+## Improvements (I'd do if I had more time)
 - The Player
 - I'd implement a hide/show BottomNavigationView on scroll list
 - I'd <b>try</b> to improve the architecture
