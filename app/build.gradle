@@ -27,7 +27,6 @@ android {
     lintOptions {
         abortOnError false
     }
-
     kapt {
         generateStubs = true
     }
